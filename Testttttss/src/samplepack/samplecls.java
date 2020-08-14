@@ -8,7 +8,8 @@ public class samplecls {
 		String xd = "xaxaxa";
 		
 		System.out.println(xd);
-		
+		System.out.println(xd);
+		System.out.println(xd);
 	}
 
 }
