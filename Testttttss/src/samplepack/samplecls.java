@@ -11,6 +11,7 @@ public class samplecls {
 		System.out.println(xd);
 		System.out.println(xd);
 		System.out.println(XDXD);
+		System.out.println(XDXD);
 	}
 
 }
